@@ -1,7 +1,7 @@
 ---
 title: "CNER: Concept and Named Entity Recognition"
 collection: publications
-permalink: https://aclanthology.org/2024.naacl-long.461/
+permalink: /publication/2024-naacl-cner
 excerpt: 'A unified approach to concept and named entity recognition.'
 date: 2024-06-01
 venue: 'NAACL 2024'

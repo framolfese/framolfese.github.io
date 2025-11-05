@@ -1,7 +1,7 @@
 ---
 title: "ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering"
 collection: publications
-permalink: https://aclanthology.org/2024.emnlp-main.1251/
+permalink: /publication/2024-emnlp-zebra
 excerpt: 'A zero-shot example-based retrieval augmentation approach for commonsense question answering.'
 date: 2024-11-01
 venue: 'EMNLP 2024'

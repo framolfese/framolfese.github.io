@@ -1,7 +1,7 @@
 ---
 title: "ReTraceQA: Evaluating Reasoning Traces of Small Language Models in Commonsense Question Answering"
 collection: publications
-permalink: https://arxiv.org/abs/2510.09351
+permalink: /publication/2025-arxiv-retraceqa
 excerpt: 'Evaluating the reasoning traces of small language models in commonsense question answering.'
 date: 2025-10-01
 venue: 'ArXiv Preprint'

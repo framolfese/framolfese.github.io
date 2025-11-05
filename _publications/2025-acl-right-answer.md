@@ -1,7 +1,7 @@
 ---
 title: "Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering"
 collection: publications
-permalink: https://aclanthology.org/2025.findings-acl.950/
+permalink: /publication/2025-acl-right-answer
 excerpt: 'This paper uncovers inconsistencies in LLM evaluation for multiple-choice question answering.'
 date: 2025-01-01
 venue: 'ACL 2025 (Findings)'
