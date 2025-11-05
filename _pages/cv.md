@@ -9,56 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/molfese-cv-oct-2025.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Artificial Intelligence**, Sapienza University of Rome, Italy, Nov. 2022 - Nov. 2025
+  * Topics: Large Language Models, Question Answering, Retrieval Augmented Generation, Evaluation, Reasoning
+  * Ph.D. Advisor: Prof. Roberto Navigli
 
-Work experience
+* **M.Sc. in Engineering in Computer Science**, Sapienza University of Rome, Italy, Oct. 2019 - Oct. 2021
+  * Thesis: "Reconciliation of Channel-Generated Keys: Case of High Bit Disagreement Rate and Informed Eavesdropper"
+  * Research collaboration with the Center for Connected Autonomy and Artificial Intelligence of Florida Atlantic University
+  * Thesis advisor: Prof. Francesca Cuomo
+  * Thesis co-advisor: Prof. Dimitris Pados
+  * Final grade: 110/110 cum laude
+  * Average exam grade: 29.7/30.0
+
+* **B.Sc. in Engineering in Computer Science**, Sapienza University of Rome, Italy, Sept. 2016 - Oct. 2019
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **May 2025 – Oct. 2025: Applied Scientist Intern**
+  * Amazon AGI – Barcelona, Spain
+  * Trained Long-Context Language Models with Reinforcement Learning to augment in-context retrieval capabilities
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **June 2022 – July 2023: NLP Engineer**
+  * Babelscape – Rome, Italy
+  * Evaluated state-of-the-art language models for cross-lingual sentence embeddings
+  * Developed sentence alignment algorithms based on semantic similarity
+  * Implemented fast and efficient entity disambiguation systems
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Nov. 2021 – May 2022: Data Scientist**
+  * Target Reply – Rome, Italy
+  * Development of systems for satellite image segmentation
+  * Unsupervised clustering algorithm for efficient allocation of human resources on-field
+  * Microservices for the interaction between client platform, AWS and a big-data-oriented automated pipeline
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Large Language Models (LLMs)
+* Question Answering Systems
+* Retrieval Augmented Generation (RAG)
+* Model Evaluation and Benchmarking
+* Reasoning and Commonsense Understanding
+* Natural Language Processing
+* Cross-lingual NLP
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
