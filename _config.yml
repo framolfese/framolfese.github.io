@@ -22,7 +22,7 @@ repository               : "framolfese/framolfese.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpeg"
   name             : "Francesco Maria Molfese"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. Candidate in AI"
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "francesco-molfese-2b3567222"
+  linkedin         : "francesco-maria-molfese-2b3567222"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "framolfese"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
